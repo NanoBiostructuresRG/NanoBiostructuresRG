@@ -1,4 +1,4 @@
-## 🔬 Research First, Software Follows
+## 🔬 A Result Is Not Always an Answer
 
 I'm a researcher in computational medicinal chemistry focused on metabolic disorders. My work combines cheminformatics, molecular modeling and simulation, and machine learning to explore chemical spaces and prioritize molecular candidates against therapeutic targets.
 
