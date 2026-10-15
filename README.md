@@ -18,5 +18,4 @@ I'm a Research Professor at [Tecnológico de Monterrey](https://tec.mx/en) and a
 - 🎓 &nbsp; I teach undergraduate and graduate courses in biomedical sciences and nanotechnology.
 - 📖 &nbsp; I serve on the Editorial Board of [*Biophysica*](https://www.mdpi.com/journal/biophysica) (ISSN 2673-4125).
 - 👥 &nbsp; I lead the [Nano & Biostructures Research Group](https://sites.google.com/tec.mx/nanobiostructures) at Tecnológico de Monterrey.
-
-Explore our [research projects and scientific software portfolio](https://nanobiostructuresrg.github.io/).
+- - 📚 &nbsp; My research group and I develop introductory tutorials with hands-on Google Colab exercises in Python and NumPy, cheminformatics, and molecular docking. You can explore them in our [research projects and scientific software portfolio](https://nanobiostructuresrg.github.io/).
