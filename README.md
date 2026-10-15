@@ -10,7 +10,7 @@ I'm a Research Professor at [Tecnológico de Monterrey](https://tec.mx/en) and a
 
 - 🧬 &nbsp; Improve how computational evidence supports the prioritization of molecular candidates in metabolic disorders.
 - 🔍 &nbsp; Make scientific workflows easier to reproduce, inspect, and reuse.
-- 🌱 &nbsp; Help research-driven software grow beyond its original project through documentation, testing, and community feedback.
+- 🌱 &nbsp; Pursue epistemological clarity, ontological consistency, and semantic coherence in scientific software development.
 
 ### My activities
 
