@@ -1,16 +1,22 @@
-## Hi there 👋
+## 🔬 Research First, Software Follows
 
-<!--
-**NanoBiostructuresRG/NanoBiostructuresRG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a researcher in computational medicinal chemistry focused on metabolic disorders. My work combines cheminformatics, molecular modeling and simulation, and machine learning to explore chemical spaces and prioritize molecular candidates against therapeutic targets.
 
-Here are some ideas to get you started:
+I also build scientific software. Most of our tools began with a need that emerged during an ongoing research project. My students and I identify the problem, develop a solution, and become its first users. Some of these tools eventually grow into open-source applications for other researchers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Research Professor at [Tecnológico de Monterrey](https://tec.mx/en) and a core researcher at the Institute for Obesity Research.
+
+### Current goals
+
+- 🧬 &nbsp; Improve how computational evidence supports the prioritization of molecular candidates in metabolic disorders.
+- 🔍 &nbsp; Make scientific workflows easier to reproduce, inspect, and reuse.
+- 🌱 &nbsp; Help research-driven software grow beyond its original project through documentation, testing, and community feedback.
+
+### My activities
+
+- 💻 &nbsp; I develop open-source scientific software. I believe open code is only the beginning; transparent review criteria and community feedback are equally important for building trustworthy tools. That's what I value about initiatives like [pyOpenSci](https://www.pyopensci.org/).
+- 🎓 &nbsp; I teach undergraduate and graduate courses in biomedical sciences and nanotechnology.
+- 📖 &nbsp; I serve on the Editorial Board of [*Biophysica*](https://www.mdpi.com/journal/biophysica) (ISSN 2673-4125).
+- 👥 &nbsp; I lead the Nano and Biostructures Research Group at Tecnológico de Monterrey.
+
+Explore our [research projects and scientific software portfolio](https://nanobiostructuresrg.github.io/).
